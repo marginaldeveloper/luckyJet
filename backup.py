@@ -1,4 +1,4 @@
-#7035031086:AAGU70CE-twRrPsegaDhnZl93E1n8IACm1Y
+#Scam casino bot, just for educational purposes, so i am not responsible for its use
 import os
 import random
 import re
@@ -7,7 +7,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram import executor
 from aiogram.dispatcher import FSMContext
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
-API_TOKEN = '7035031086:AAGU70CE-twRrPsegaDhnZl93E1n8IACm1Y'
+API_TOKEN = 'Insert here yours token'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
